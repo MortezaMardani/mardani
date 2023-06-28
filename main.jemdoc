@@ -1,0 +1,34 @@
+@title Morteza Mardani - Personal Website
+@date June 2023
+
+@{
+# Set the profile photo
+![Profile Photo](mortez_nov2017.jpg)
+
+# Set the email address
+Email: mormardani@gmail.com
+
+# Set the Google Scholar link
+[Google Scholar](https://scholar.google.com/citations?user=H7edsyEAAAAJ&hl=en)
+}
+
+@homepage {
+# Biography
+Morteza Mardani is currently a senior AI research staff at NVIDIA Research and a visiting researcher at Stanford University. He aims to bridge the gap between theory and practice of machine learning, with a specific focus on generative learning.
+
+Morteza's background is in statistical learning and optimization. Prior to joining NVIDIA, he served as a research staff and postdoctoral researcher at Stanford University, working with esteemed researchers such as [John Pauly](https://web.stanford.edu/~pauly/), [David Donoho](https://statistics.stanford.edu/people/david-donoho), and [Shreyas Vasanawala](https://profiles.stanford.edu/shreyas-vasanawala). He received his Ph.D. from the University of Minnesota, Twin Cities under the supervision of [Georgios Giannakis](https://cse.umn.edu/ece/georgios-giannakis). As part of his Ph.D. program, he was also a visiting scholar at UC Berkeley's RISE Lab.
+
+# Research Description
+Morteza's research revolves around the general area of generative learning. He is interested in fundamental research on generative learning that has a direct impact on product development. Currently, his research is focused on diffusion models. In the past, he has worked on architecture design for deep learning, understanding the inductive biases of neural networks, and solving inverse problems using deep learning.
+
+During his Ph.D., Morteza made significant contributions to large-scale data science and was awarded the "Test of Time Young Author Best Paper Award" from IEEE Signal Processing Society in 2017.
+
+# Updates and News
+- June 2023: Presented research findings at International Conference XYZ.
+- May 2023: Published a new paper on generative models in Journal ABC.
+- April 2023: Received the XYZ Research Grant for ongoing research project.
+
+# Contact Information
+- Email: mmardani@nvidia.com
+}
+
