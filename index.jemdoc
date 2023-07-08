@@ -6,22 +6,62 @@
 [Twitter](https://twitter.com/mardanimorteza?lang=en)
 [Email](mailto:mormardani@gmail.com)
 
-## Biography
+<style>
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+</style>
+
+<h1>Biography</h1>
 
 Morteza is currently a senior AI researcher at NVIDIA research and a visiting researcher at Stanford. He aims to bridge the gap between theory and practice of machine learning, with a focus on generative learning. Morteza's background is in statistical learning and optimization. Prior to NVIDIA, Morteza was a research staff and postdoc at Stanford, working with [John Pauly](https://web.stanford.edu/~pauly/), [David Donoho](https://statistics.stanford.edu/people/david-donoho), and [Shreyas Vasanawala](https://profiles.stanford.edu/shreyas-vasanawala). He received his PhD from the University of Minnesota, Twin Cities, under the supervision of [Georgios Giannakis](https://cse.umn.edu/ece/georgios-giannakis). As part of the program, he was a visiting scholar at UC Berkeley, RISE Lab.
 
-## Research Description
+<h2>Research Description</h2>
 
 Morteza is interested in fundamental research on generative learning that has a direct product impact. Currently, he is focused on diffusion models. In the past, he worked on architecture design for deep learning, understanding inductive biases of neural networks, and solving inverse problems using learning. His PhD research contributed to large-scale data science and was recognized with the "Young Author Best Paper Award" from IEEE Signal Processing Society in 2017.
 
-## Opportunities
+<h2>Opportunities</h2>
 
 Morteza is looking for motivated PhD interns and research scientists interested in generative learning to join his team. Please drop him an email at [mmardani@nvidia.com](mailto:mmardani@nvidia.com).
 
-## Updates
+<h2>Updates</h2>
 
-- Our RED-diff work for solving inverse problems using diffusions appears on arXiv. Code is available at [link to RED-diff](https://arxiv.org/abs/2305.04391), [link to code](https://github.com/NVlabs/RED-diff).
-- Our AutoSamp work for auto-encoding MRI sampling appears on arXiv. Code is available at [link to AutoSamp](https://arxiv.org/abs/2306.02888), [link to code](https://github.com/alkanc/tfnufft).
-- Morteza has been elected as a technical committee member for IEEE computational imaging.
-- Our work on xx has been accepted for ICML 2023.
-- Our work on xx has been accepted for ICLR 2023.
+<ul>
+  <li>Our RED-diff work for solving inverse problems using diffusions appears on arXiv. Code is available at <a href="https://arxiv.org/abs/2305.04391">link to RED-diff</a>, <a href="https://github.com/NVlabs/RED-diff">link to code</a>.</li>
+  <li>Our AutoSamp work for auto-encoding MRI sampling appears on arXiv. Code is available at <a href="https://arxiv.org/abs/2306.02888">link to AutoSamp</a>, <a href="https://github.com/alkanc/tfnufft">link to code</a>.</li>
+  <li>Morteza has been elected as a technical committee member for IEEE computational imaging.</li>
+  <li>Our work on xx has been accepted for ICML 2023.</li>
+  <li>Our work on xx has been accepted for ICLR 2023.</li>
+</ul>
