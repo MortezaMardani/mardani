@@ -15,7 +15,7 @@ I am currently a senior AI researcher at NVIDIA research and a visiting research
 
 == Research
 
-I am interested in fundamental research on generative learning that makes a direct product impact. I am currently focused on diffusion models. In the past, I worked on architecture design for deep learning, understanding inductive biases of neural networks, and solving inverse problems using learning. For my PhD, I contributed to large-scale data science and received the "Young Author Best Paper Award" from IEEE Signal Processing Society in 2017.
+I am interested in fundamental research on generative learning that makes a direct product impact. I am currently focused on diffusion models. In the past, I worked on architecture design for deep learning, understanding inductive bias of neural networks, and solving inverse problems using learning. For my PhD, I contributed to large-scale data science and received the "Young Author Best Paper Award" from IEEE Signal Processing Society in 2017.
 
 == Opportunities
 
@@ -23,8 +23,8 @@ I am looking for motivated PhD interns and research scientists interested in gen
 
 == News
 
-- Our RED-diff paper for solving inverse problems using diffusions appears on [https://arxiv.org/abs/2305.04391 arXiv]. [https://github.com/NVlabs/RED-diff Code] is released.
-- Our AutoSamp work for auto-encoding MRI sampling appears on [https://arxiv.org/abs/2306.02888 arXiv]. [https://github.com/alkanc/tfnufft Code] is released.
+- Our [https://arxiv.org/abs/2305.04391 RED-diff] paper for solving inverse problems using diffusions appears on arXiv. [https://github.com/NVlabs/RED-diff Code] is released.
+- Our [https://arxiv.org/abs/2306.02888 AutoSamp] work for auto-encoding MRI sampling appears on arXiv. [https://github.com/alkanc/tfnufft Code] is released.
 - I have been elected as a technical committee member for IEEE computational imaging.
 - Our work on [https://openreview.net/forum?id=JzZ2xAvCs8 loss-guided diffusion models] has been accepted for ICML 2023.
 - Our work on [https://openreview.net/forum?id=9_gsMA8MRKQ pseudo-inverse guided diffusion models (PGDM)] has been accepted for ICLR 2023. 
