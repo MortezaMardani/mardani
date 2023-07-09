@@ -26,5 +26,6 @@ I am looking for motivated PhD interns and research scientists interested in gen
 - Our RED-diff paper for solving inverse problems using diffusions appears on [https://arxiv.org/abs/2305.04391 arXiv]. [https://github.com/NVlabs/RED-diff Code] is released.
 - Our AutoSamp work for auto-encoding MRI sampling appears on [https://arxiv.org/abs/2306.02888 arXiv]. [https://github.com/alkanc/tfnufft Code] is released.
 - I have been elected as a technical committee member for IEEE computational imaging.
-- Our work on [https://openreview.net/forum?id=JzZ2xAvCs8 loss guided diffusion models] has been accepted for ICML 2023.
+- Our work on [https://openreview.net/forum?id=JzZ2xAvCs8 loss-guided diffusion models] has been accepted for ICML 2023.
 - Our work on [https://openreview.net/forum?id=9_gsMA8MRKQ pseudo-inverse guided diffusion models (PGDM)] has been accepted for ICLR 2023. 
+- Our work on [https://arxiv.org/abs/2303.12398 multiscale attention via Wavelet neural operators] has appeared on arxiv. 
