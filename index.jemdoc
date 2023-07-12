@@ -12,11 +12,13 @@ Email: /mormardani/ \[@\] gmail \[DOT\] com  \n
 
 == About me
 
-I am currently a senior AI researcher at NVIDIA research and a visiting researcher at Stanford. I am aiming to bridge the gap between theory and practice of machine learning with a focus on generative learning. My background is in statistical learning and optimization. Prior to NVIDIA, I was a research staff and postdoc at Stanford, working with [https://web.stanford.edu/~pauly/ John Pauly], [https://statistics.stanford.edu/people/david-donoho David Donoho], and [https://profiles.stanford.edu/shreyas-vasanawala Shreyas Vasanawala]. I received my PhD from the University of Minnesota, Twin Cities, under the supervision of [https://cse.umn.edu/ece/georgios-giannakis Georgios Giannakis]. As part of the program, I was a visiting scholar at UC Berkeley, RISE Lab.
+I am currently a senior AI researcher at NVIDIA research and a visiting researcher at Stanford. I am aiming to bridge the gap between theory and practice of machine learning with a focus on generative learning. My background is in statistical learning and optimization. 
+
+Prior to NVIDIA, I was a research staff and postdoc at Stanford, working with [https://web.stanford.edu/~pauly/ John Pauly], [https://statistics.stanford.edu/people/david-donoho David Donoho], and [https://profiles.stanford.edu/shreyas-vasanawala Shreyas Vasanawala]. I received my PhD from the University of Minnesota, Twin Cities, under the supervision of [https://cse.umn.edu/ece/georgios-giannakis Georgios Giannakis]. As part of the program, I was a visiting scholar at UC Berkeley, RISE Lab, working with [https://www.stat.berkeley.edu/~mmahoney/ Michael Mahoney].
 
 == Research
 
-I am interested in fundamental research on generative learning that can lead to product impact. I am currently focused on diffusion models. In the past, I worked on architecture design for deep learning, understanding inductive bias of neural networks, and solving inverse problems using deep learning. For my PhD, I contributed to large-scale data science and received the "Young Author Best Paper Award" from IEEE Signal Processing Society in 2017.
+I am interested in fundamental research on generative learning with product impact. I am currently focused on diffusion models. In the past, I worked on architecture design for deep learning, understanding inductive bias of neural networks, and solving inverse problems using deep learning. For my PhD, I contributed to large-scale data science and received the "Young Author Best Paper Award" from IEEE Signal Processing Society in 2017.
 
 == Opportunities
 
@@ -24,7 +26,7 @@ I am looking for motivated PhD interns and research scientists interested in gen
 
 == News
 
-- Our [https://arxiv.org/abs/2305.04391 RED-diff] paper for solving inverse problems using diffusions appears on arXiv. [https://github.com/NVlabs/RED-diff Code] is released.
+- Our [https://arxiv.org/abs/2305.04391 RED-diff] paper for solving inverse problems using diffusion models appeared on arXiv. [https://github.com/NVlabs/RED-diff Code] is released.
 - Our [https://arxiv.org/abs/2306.02888 AutoSamp] work for auto-encoding MRI sampling appears on arXiv. [https://github.com/alkanc/tfnufft Code] is released.
 - I have been elected as a technical committee member for IEEE computational imaging.
 - Our work on [https://openreview.net/forum?id=JzZ2xAvCs8 loss-guided diffusion models] accepted for ICML 2023.
