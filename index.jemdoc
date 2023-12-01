@@ -24,8 +24,9 @@ I am interested in fundamental research on generative learning with product impa
 
 I am looking for motivated PhD interns and research scientists interested in generative learning to join our team. Please drop me an email at [mmardani@nvidia.com].
 
-== News
-
+== Latest news
+- Our work [https://arxiv.org/abs/2309.15214 Corr-diff] to learn generaitve mapping between low-resolution and high-resolution states using residual diffusion models appeard on arXiv.
+- Our papers on RED-diff for [https://openreview.net/forum?id=M1V498MXelq MRI] and [https://openreview.net/forum?id=Cei9ee2zfJ blind MRI] accepted for NeurIPS-2023 workshop on learning for inverse problems.
 - Our [https://arxiv.org/abs/2305.04391 RED-diff] paper for solving inverse problems using diffusion models appeared on arXiv. [https://github.com/NVlabs/RED-diff Code] is released.
 - Our [https://arxiv.org/abs/2306.02888 AutoSamp] work for auto-encoding MRI sampling appears on arXiv. [https://github.com/alkanc/tfnufft Code] is released.
 - I have been elected as a technical committee member for IEEE computational imaging.
